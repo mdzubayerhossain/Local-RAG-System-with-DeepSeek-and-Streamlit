@@ -20,7 +20,7 @@
  
   1. Clone the repository:
      ```bash
-     git clone https://github.com/your-username/local-rag-system.git
+     git clone https://github.com/mdzubayerhossain/Local-RAG-System-with-DeepSeek-and-Streamlit.git
      cd local-rag-system
      ```
  
@@ -90,6 +90,3 @@
     streamlit
     sentence-transformers
     ```
-  - Add a `.gitignore` file to exclude unnecessary files like `db/` (Chroma database) and `__pycache__/`.
- 
-  This setup will make your repository ready for sharing and collaboration! 🚀
