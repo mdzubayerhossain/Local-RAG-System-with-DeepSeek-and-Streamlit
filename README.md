@@ -4,6 +4,8 @@
  It processes uploaded documents into a vector store and generates context-aware responses using a RAG pipeline.
   It includes rag_app.py for command-line use and streamlit_rag.py for a web interface. Utilizes Hugging Face Transformers,
   LangChain, and Chroma.
+![image](https://github.com/user-attachments/assets/667dfb56-3083-476a-a66a-0ee1a867fbb6)
+
  ## Features
  - **Document Processing**: Upload and process text documents into a vector store using LangChain and Chroma.
   - **RAG Pipeline**: Generate responses using a Retrieval-Augmented Generation pipeline powered by DeepSeek-Coder.
